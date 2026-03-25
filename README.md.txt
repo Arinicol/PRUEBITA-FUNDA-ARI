@@ -4,5 +4,5 @@
 Este es mi trabajo del curso.
 
 ## Imagen
-![foto](Imagenes/Ari.jpg)
+![foto](FUNDA-ARI/Imagenes/Ari.jpg)
 
