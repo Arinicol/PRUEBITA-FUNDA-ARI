@@ -4,5 +4,5 @@
 Este es mi trabajo del curso.
 
 ## Imagen
-![foto](FUNDA-ARI/Imagenes/Ari.jpg)
+![texto xxxx](./Imagenes/Ari.jpg)
 
